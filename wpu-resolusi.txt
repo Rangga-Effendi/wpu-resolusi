@@ -3,4 +3,3 @@ WPU RESOLUSI
 - konsisten belajar html
 - konsisten belajar css
 - konsisten belajar javascript
-- konsisten belajar hosting
