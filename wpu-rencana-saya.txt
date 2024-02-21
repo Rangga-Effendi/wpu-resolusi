@@ -3,10 +3,13 @@ RENCANA SAYA WPU
 - javascript
   # es6
   # framework javascript
-    ^ angular
+  ~ es6
+  ~ framework javascript
+    ^ vue
     ^ react
 - struktur data dasar
 - php frameworks
     ^ laravel
 - interview
 - vlogs
+- pyhton
