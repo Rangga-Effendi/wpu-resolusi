@@ -1,8 +1,9 @@
 RENCANA SAYA WPU
 
 - javascript
-# es6
-# framework javascript
+  # es6
+  # framework javascript
+- struktur data dasar
 - php frameworks
 - interview
 - vlogs
