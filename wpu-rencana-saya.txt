@@ -1,6 +1,8 @@
 RENCANA SAYA WPU
 
 - javascript
+  # es6
+  # framework javascript
   ~ es6
   ~ framework javascript
     ^ vue
